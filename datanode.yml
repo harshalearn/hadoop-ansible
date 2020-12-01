@@ -1,4 +1,4 @@
-- hosts: 192.168.0.112
+hosts: datanodeip
   vars_files:
      - datanode_vars.yml  
   tasks:
