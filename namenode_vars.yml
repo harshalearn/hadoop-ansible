@@ -1,0 +1,3 @@
+nn_dir: "/nn"
+node_type: "name"
+nn_ip: "192.168.0.110"
