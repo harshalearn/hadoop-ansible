@@ -1,4 +1,4 @@
-hosts: datanodeip
+- hosts: datanodeip
   vars_files:
      - datanode_vars.yml  
   tasks:
